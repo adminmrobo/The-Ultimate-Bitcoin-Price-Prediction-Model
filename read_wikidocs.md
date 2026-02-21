@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://static.wikidocs.net/images/page/328740/%ED%91%9C%EC%A7%80.jpg" 
-       width="100" 
-       height="130" 
+       width="300" 
+       height="390" 
        style="object-fit: cover; border-radius: 5px;" 
        alt="코인의 주판 표지">
 </div>
