@@ -69,9 +69,9 @@
 
 
 <div align="center">
-  <img src="https://static.wikidocs.net/images/page/328740/06.jpg" width="80%" alt="분석 결과 이미지">
-  <p><em>(그림: 비트코인 예측 모델 분석 프로세스)</em></p>
-</div>
+  <img src="https://static.wikidocs.net/images/page/328740/06.jpg" style="max-width: 100%; height: auto; border-radius: 10px;">
+  <p><em>그림: 다양한 예측 모델 간의 성능 토너먼트 결과</em></p>
+</div>>
 
 ---
 
