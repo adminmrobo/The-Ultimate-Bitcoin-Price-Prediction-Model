@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="<p align="center">
-  <img src="https://static.wikidocs.net/images/page/328740/aaa704f87e33a0f5511d891c2cba7e79.jpg" width="100%">
+  <img src="https://static.wikidocs.net/images/page/328740/%ED%91%9C%EC%A7%80.jpg" width="100%">
 </p>
 
 비트코인은 오늘도 아무 예고 없이 오르고 내립니다. 이 프로젝트는 "과연 어떤 모델이 그 변덕스러운 가격을 가장 잘 맞힐 수 있는가?"라는 질문 하나로 시작됩니다. 전통 통계 모델부터 딥러닝, 확률적 상태 모델까지 총출동시켜 동일한 조건에서 정면으로 맞붙입니다.
